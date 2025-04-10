@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ambaye200
+- 👋 Hi, I’m Adji Mbaye
 - 👀 I’m interested in anything IT
-- 🌱 I’m currently learning software engineer
+- 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on projects, internships and full time jobs
 - 📫 How to reach me : adjikankou@gmail.com/ 682-360-2387
 - 😄 Pronouns: she/her
